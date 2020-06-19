@@ -1,0 +1,7 @@
+const embed = new Discord.RichEmbed()
+  .setTitle('')
+  .setDescription('')
+  .addField('','')
+  .setFooter('')
+  .setColor('')
+message.channel.send(embed)
